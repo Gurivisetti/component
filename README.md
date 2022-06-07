@@ -1,2 +1,2 @@
 # component
-component repo
+component repo hub
